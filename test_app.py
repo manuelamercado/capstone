@@ -4,8 +4,8 @@ import json
 from flask_sqlalchemy import SQLAlchemy
 
 from app import create_app
-from database.models import setup_db, Actor, Movie
-from auth.auth import AuthError, requires_auth
+from models import setup_db, Actor, Movie
+from auth import AuthError, requires_auth
 
 CASTING_ASSISTANT = os.getenv('CASTING_ASSISTANT')
 CASTING_DIRECTOR = os.getenv('CASTING_DIRECTOR')
