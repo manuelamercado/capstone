@@ -1,4 +1,14 @@
-# Casptone Agency Backend
+# Full Stack API Casptone Agency
+
+## About
+
+The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. This API is to manage and store the actors and movies. 
+
+This API is managed by 3 roles: Casting Assistant, Casting Director, and Executive Producer. Below are the permissions assigned for each role.
+
+The endpoints description and how to use them are in the Endpoints section.
+
+The frontend of this APP is in progress, but not included here.
 
 ## Getting Started
 
