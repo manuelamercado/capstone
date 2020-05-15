@@ -285,6 +285,9 @@ The `--reload` flag will detect file changes and restart the server automaticall
 }
 ```
 
+## Live API Site on Heroku:
+[Heroku](https://capstone-api-manuela-mercado.herokuapp.com/)
+
 ## Tests:
 * Create a database for testing with the following command ` createdb capstone_test postgres`.
 * Insert at least 3 values for actors and movies.
